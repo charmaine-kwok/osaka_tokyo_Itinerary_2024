@@ -4,7 +4,7 @@
 
 This document details my travel itinerary focusing on the city of Tokyo, capturing my experiences from June 8th to 13th, 2024.
 
-## Day 1: Exploring Historical and Cultural Sites in Tokyo
+## Day 1: Walking Tour of Tokyo Tower and Surrounding Shrines
 
 - **Morning:**
   - **Tokyo Tower**: Our day began with a walk around the iconic Tokyo Tower, taking in the impressive structure and its surroundings. The weather was exceptionally good, enhancing our experience with clear skies, perfect for sightseeing.
@@ -79,7 +79,7 @@ This document details my travel itinerary focusing on the city of Tokyo, capturi
 
     <img src="images/tokyo/d2/tsujihan.jpg" alt="Tsujihan Seafood Bowl" height="500" />
 
-## Day 3: Diverse Cultural and Recreational Experiences in Tokyo
+## Day 3: Shrine Visits and Onsen Experience in Tokyo
 
 - **Morning:**
   - **Visit to Hikawa Shrine (冰川神社)**:
@@ -125,7 +125,7 @@ This document details my travel itinerary focusing on the city of Tokyo, capturi
   
     <img src="images/tokyo/d3/chazuke-komeraku.jpg" alt="Cha-zuke at Komeraku" width="600"/>
 
-## Day 4: Visiting Shrines and Tokyo Tower
+## Day 4: Tokyo Tower and Mount Takao Hike
 
 - **Morning:**
   - **Shiba Toshogu Shrine (芝東照宮)**: Started the day by visiting Shiba Toshogu Shrine.
